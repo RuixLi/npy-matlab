@@ -1,4 +1,4 @@
-[![Travis](https://api.travis-ci.org/kwikteam/npy-matlab.svg?branch=master "Travis")](https://travis-ci.org/kwikteam/npy-matlab)
+
 # npy-matlab
 
 Code to read and write NumPy's NPY format (`.npy` files) in MATLAB.
